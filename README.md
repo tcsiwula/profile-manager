@@ -1,7 +1,8 @@
 
 # Install Watermelon
 
-1. ruby -e "$(curl -fsSL https://raw.githubusercontent.com/tcsiwula/watermelon/install/master/install)"
+1. wget raw.github.com/tcsiwula/watermelon/master/melon -O melon
+2. melon
 
 Features, usage and installation instructions are [summarised on the homepage](http://itimmy.com/watermelon).
 
