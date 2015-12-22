@@ -1,5 +1,8 @@
 
-# Watermelon
+# Install Watermelon
+
+1. ruby -e "$(curl -fsSL https://raw.githubusercontent.com/tcsiwula/watermelon/install/master/install)"
+
 Features, usage and installation instructions are [summarised on the homepage](http://itimmy.com/watermelon).
 
 ## What Profiles Are Available?
