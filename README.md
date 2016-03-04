@@ -32,17 +32,6 @@ This is our PGP key which is valid until June 17, 2016.
 ## Who Are You?
 Homebrew's current maintainers are [Tim](https://github.com/tcsiwula) and [Iman](https://github.com/ikamyabi)
 
-Former maintainers with significant contributions include Watermelon's creator's: [Tim](https://github.com/tcsiwula) and [Iman](https://github.com/ikamyabi).
-
 ## License
 Code is under the [BSD 2 Clause (NetBSD) license](https://github.com/Homebrew/homebrew/tree/master/LICENSE.txt).
 Documentation is under the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/).
-
-## Sponsors
-Our CI infrastructure was paid for by [our Kickstarter supporters](https://github.com/Homebrew/homebrew/blob/master/SUPPORTERS.md).
-
-Our CI infrastructure is hosted by [The Positive Internet Company](http://www.positive-internet.com).
-
-Our bottles (binary packages) are hosted by Bintray.
-
-[![Downloads by Bintray](https://bintray.com/docs/images/downloads_by_bintray_96.png)](https://bintray.com/homebrew)
